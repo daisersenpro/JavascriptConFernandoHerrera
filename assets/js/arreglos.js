@@ -26,4 +26,4 @@ let arregloCosas = [
     
 ];
 //console.log({arregloCosas});
-console.log(arregloCosas[7][4][1]); //trae arregle de arregloCosas y el elemento 3 del arreglo que esta en la posicion 7 y asi sucesivamente.
+console.log(arregloCosas[7][4][0]); //trae arregle de arregloCosas y el elemento 3 del arreglo que esta en la posicion 7 y asi sucesivamente.
